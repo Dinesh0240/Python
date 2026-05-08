@@ -1,0 +1,11 @@
+2
+Table of 2: 2
+Table of 2: 4
+Table of 2: 6
+Table of 2: 8
+Table of 2: 10
+Table of 2: 12
+Table of 2: 14
+Table of 2: 16
+Table of 2: 18
+Table of 2: 20

@@ -1,0 +1,47 @@
+2
+3
+4
+5
+Table of 2: 2
+Table of 2: 4
+Table of 2: 6
+Table of 2: 8
+Table of 2: 10
+Table of 2: 12
+Table of 2: 14
+Table of 2: 16
+Table of 2: 18
+Table of 2: 20
+
+Table of 3: 3
+Table of 3: 6
+Table of 3: 9
+Table of 3: 12
+Table of 3: 15
+Table of 3: 18
+Table of 3: 21
+Table of 3: 24
+Table of 3: 27
+Table of 3: 30
+
+Table of 4: 4
+Table of 4: 8
+Table of 4: 12
+Table of 4: 16
+Table of 4: 20
+Table of 4: 24
+Table of 4: 28
+Table of 4: 32
+Table of 4: 36
+Table of 4: 40
+
+Table of 5: 5
+Table of 5: 10
+Table of 5: 15
+Table of 5: 20
+Table of 5: 25
+Table of 5: 30
+Table of 5: 35
+Table of 5: 40
+Table of 5: 45
+Table of 5: 50
